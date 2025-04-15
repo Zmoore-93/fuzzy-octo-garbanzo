@@ -1,0 +1,93 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="fYbD9wFxrsgr1sGx9Aeb">
+    <mxGraphModel dx="1092" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-1" target="Eb1YL_7E4O-mOn-sN5p6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-2" value="number 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-4" value="&quot;enter a number between&lt;div&gt;1 and 100&quot;&lt;/div&gt;&lt;div&gt;get guess&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-5" target="Eb1YL_7E4O-mOn-sN5p6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-5" value="loop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-2" target="Eb1YL_7E4O-mOn-sN5p6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-4" target="Eb1YL_7E4O-mOn-sN5p6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-8" target="Eb1YL_7E4O-mOn-sN5p6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-8" value="number=&lt;div&gt;guess&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="410" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-9" target="Eb1YL_7E4O-mOn-sN5p6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-9" target="Eb1YL_7E4O-mOn-sN5p6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-9" value="number&amp;gt;&lt;div&gt;guess&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="540" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-12" target="Eb1YL_7E4O-mOn-sN5p6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-12" value="PUT &quot;the guess is too high&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="660" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-13" target="Eb1YL_7E4O-mOn-sN5p6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-13" value="PUT &quot;the gues is too low&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="660" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-16" target="Eb1YL_7E4O-mOn-sN5p6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-16" target="Eb1YL_7E4O-mOn-sN5p6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-16" value="PUT &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="890" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-17" value="&quot;enter a number between&lt;div&gt;1 and 100?&lt;/div&gt;&lt;div&gt;get guess&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="780" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="Eb1YL_7E4O-mOn-sN5p6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-18" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-31" value="no&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-32" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="428" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-33" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="558" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb1YL_7E4O-mOn-sN5p6-34" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="560" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
